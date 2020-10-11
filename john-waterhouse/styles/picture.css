@@ -1,0 +1,36 @@
+html, body {
+  background-color: gray;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height: 100%;
+}
+
+.frame {
+    height: 600px;
+    width: 1000px;
+    background-color: yellow;
+}
+.sky {
+    height: 230px;
+    width: auto;
+    background-color: lightgray;
+    padding: 0%;
+    margin: 0%;
+}
+.sea {
+    height: 140px;
+    width: auto;
+    background-color: lightblue;
+    padding: 0%;
+    margin: 0%;
+}
+.sand {
+    height: 230px;
+    width: auto;
+    background-color: lightsalmon;
+    padding: 0%;
+    margin: 0%;
+}
+p {
+    margin: 0%;
+}
